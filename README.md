@@ -1,7 +1,5 @@
-# KmsFrontendGuild
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
-
+# front-end-guild-page
+Landing page for Front-end Guild in Software Service Department
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
